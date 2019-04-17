@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Share Tech';
+  src: url("./assets/fonts/ShareTechMono-Regular.ttf");
+}
+
+html, body {
+  color: #F2F2F2;
+  background-color: #3D3D3D;
+  height: 100%;
+  font-family: 'Share Tech';
+}
+/*# sourceMappingURL=index.css.map */

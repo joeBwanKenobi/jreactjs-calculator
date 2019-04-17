@@ -1,0 +1,15 @@
+$body-color: #3D3D3D;
+$bg-color: #F2F2F2;
+$text-color: #F2F2F2;
+
+@font-face {
+  font-family: 'Share Tech';
+  src: url('./assets/fonts/ShareTechMono-Regular.ttf');
+}
+
+html, body {
+    color: $text-color;
+    background-color: $body-color;
+    height: 100%;
+    font-family: 'Share Tech';
+  }
