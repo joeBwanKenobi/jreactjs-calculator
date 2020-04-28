@@ -1,6 +1,6 @@
 # Javascript Calculator
 
-I built this Javascript calculator with the React to practice using the framework.
+I built this Javascript calculator with React to practice using the framework.
 
 Feel free to clone it and experiment locally.
 
